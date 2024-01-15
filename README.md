@@ -1,2 +1,3 @@
 # planets
-practice / learning repository 
+practice / learning repository about planets
+I sure love planets :) 
